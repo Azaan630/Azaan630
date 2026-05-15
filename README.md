@@ -16,7 +16,7 @@
 
 **Aspiring AI Systems Engineer · Currently Learning AI/ML · NUST SEECS '29**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AzaanNust&color=6366f1&style=flat-square&label=PROFILE+VIEWS)](https://github.com/AzaanNust)
+[![Profile Views](https://komarev.com/ghpvc/?username=Azaan630&color=6366f1&style=flat-square&label=PROFILE+VIEWS)](https://github.com/AzaanNust)
 
 ---
 
@@ -65,7 +65,7 @@ CS student focused on building robust, scalable infrastructure. I enjoy the chal
 
 <div align="center">
 
-| 🫓 [**NUST's Kitchen**](https://github.com/AzaanNust/NUSTs-Kitchen) | 💼 [**Job Portal**](https://github.com/AzaanNust/OOP-Job-Portal) |
+| 🫓 [**NUST's Kitchen**](https://github.com/Azaan630/NUSTs-Kitchen) | 💼 [**Job Portal**](https://github.com/Azaan630/OOP-Job-Portal) |
 | :--- | :--- |
 | **Backend Lead · FastAPI · Docker** | **Lead Developer · Java · Public** |
 | A high-performance mess management system for SEECS. Handled real-time dining logistics and secure student data. | Modernizing the job portal experience. A centralized platform for societies and career tracking. |
