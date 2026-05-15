@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=a78bfa&center=true&vCenter=true&width=600&lines=Stuck+in+the+AI+loop+for+the+lore;Building+High-Performance+APIs;Infrastructure+%26+Orchestration;World+Distinction+in+Mathematics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=a78bfa&center=true&vCenter=true&width=600&lines=Stuck+in+the+AI+loop+for+the+lore;Building+High-Performance+APIs;Brainstorming+%26+Building;World+Distinction+in+O+Level+Mathematics)](https://git.io/typing-svg)
 
 </div>
 
