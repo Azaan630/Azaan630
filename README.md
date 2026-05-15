@@ -1,22 +1,74 @@
-<h1 align="center">Hi 👋, I'm Muhammad Azaan</h1>
-<h3 align="center">An aspiring AI Systems Engineer from Pakistan</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azaannust&label=Profile%20views&color=0e75b6&style=flat" alt="azaannust" /> </p>
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Azaan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student&descColor=a78bfa&descSize=22&descAlignY=58&animation=fadeIn)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azaannust" alt="azaannust" /></a> </p>
+## C++  |  Python  |  Java  |  FastAPI  |  Docker
 
-- 🌱 I’m currently learning **the foundations of AI and ML**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/azaan.6.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azaan.6.3" height="30" width="40" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=a78bfa&center=true&vCenter=true&width=600&lines=Stuck+in+the+AI+loop+for+the+lore;Building+High-Performance+APIs;Infrastructure+%26+Orchestration;World+Distinction+in+Mathematics)](https://git.io/typing-svg)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azaannust&show_icons=true&locale=en&layout=compact" alt="azaannust" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azaannust&show_icons=true&locale=en" alt="azaannust" /></p>
+**Computer Science Student · Backend Enthusiast · Stuck in the AI Loop**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azaannust&" alt="azaannust" /></p>
+[![Profile Views](https://komarev.com/ghpvc/?username=AzaanNust&color=6366f1&style=flat-square&label=PROFILE+VIEWS)](https://github.com/AzaanNust)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-azaan)
+
+---
+
+## { About Me }
+
+```js
+const Azaan = {
+  role        : "Computer Science Undergraduate",
+  university  : "NUST SEECS H12, Islamabad · BS-CS-15E",
+  hometown    : "Mirpur, Azad Kashmir, Pakistan",
+  experience  : ["Backend Engineering", "System Design", "Academic Excellence"],
+  currentFocus: ["AI/ML Systems", "OOP (The Job Portal Arc)", "Surviving the SEECS gauntlet"],
+  contact     : "mazaan.bscs25seecs@seecs.edu.pk",
+  funFact     : "I’m 80% caffeine and 20% 'why is this Docker container not running?'",
+};
+
+CS student focused on building robust, scalable infrastructure. I enjoy the challenge of bridging the gap between raw code and intelligent systems. When I'm not debugging FastAPI routes, I'm probably wondering how I ended up in CS (it was definitely the math).
+{ Tech Stack }
+Languages & Databases
+DevOps & Backend
+{ Projects }
+<table>
+<tr>
+<td width="50%">
+🫓 RotiRouter (NUST Kitchen)
+Backend Lead · FastAPI · Docker
+A high-performance mess management system for SEECS. Handled real-time dining logistics and secure student data.
+•	Scalable REST API architecture
+•	Containerized deployment with Docker
+</td>
+<td width="50%">
+💼 Career Connect (OOP)
+Lead Developer · Java · WIP
+Modernizing the job portal experience. A centralized platform for societies and career tracking.
+•	Object-Oriented Design patterns
+•	End-semester flagship project
+</td>
+</tr>
+</table>
+{ Achievements }
+•	World Distinction in O Level Mathematics (2023) 🌍
+•	SAT: 1590/1600 | ACT: 35/36 📈
+•	CS50P: Completed unofficial deep-dive into Pythonic principles.
+{ Github Stats }
+<div align="center">
+</div>
+{ Connect With Me }
+<div align="center">
+		
+Gmail	LinkedIn	Instagram
+Always down to talk about AI infrastructure, backend bottlenecks, or table tennis.
+</div>
+<div align="center">
+<sub>currently optimizing the loop. if you don't hear from me, i'm stuck in a merge conflict.</sub>
+</div>
