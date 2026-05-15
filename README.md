@@ -65,6 +65,57 @@ CS student focused on building robust, scalable infrastructure. I enjoy the chal
 
 <div align="center">
 
+| 🫓 [**NUST's Kitchen**](https://github.com/AzaanNust/NUSTs-Kitchen) | 💼 [**Job Portal**](https://github.com/AzaanNust/OOP-Job-Portal) |
+| :--- | :--- |
+| **Backend Lead · FastAPI · Docker** | **Lead Developer · Java · Public** |
+| A high-performance mess management system for SEECS. Handled real-time dining logistics and secure student data. | Modernizing the job portal experience. A centralized platform for societies and career tracking. |
+| • Scalable REST API architecture<br>• Containerized deployment with Docker | • Object-Oriented Design patterns<br>• End-semester flagship project |
+
+</div>
+
+---
+
+## { Github Stats }
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=AzaanNust&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AzaanNust&theme=radical&hide_border=false)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=AzaanNust&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## { Connect With Me }
+
+<div align="center">
+
+| [![Gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:mazaan.bscs25seecs@seecs.edu.pk) | [![Instagram](https://img.icons8.com/color/48/instagram-new.png)](https://instagram.com/azaan.6.3) |
+|:---:|:---:|
+| **Gmail** | **Instagram** |
+
+Always down to talk about AI infrastructure, backend bottlenecks, or table tennis.
+
+<sub>currently optimizing the loop. if you don't hear from me, i'm stuck in a merge conflict.</sub>
+
+</div>
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+### 🎨 Design
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+## { Projects }
+
+<div align="center">
+
 | 🫓 **NUST's Kitchen** | 💼 **Career Connect** |
 | :--- | :--- |
 | **Backend Lead · FastAPI · Docker** | **Lead Developer · Java · WIP** |
