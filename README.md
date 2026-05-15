@@ -17,7 +17,6 @@
 **Aspiring AI Systems Engineer · Currently Learning AI/ML · NUST SEECS '29**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AzaanNust&color=6366f1&style=flat-square&label=PROFILE+VIEWS)](https://github.com/AzaanNust)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-azaan)
 
 ---
 
@@ -36,7 +35,7 @@ const Azaan = {
 };
 ```
 
-CS student focused on building robust, scalable infrastructure. I enjoy the challenge of bridging the gap between raw code and intelligent systems. When I'm not debugging FastAPI routes, I'm probably wondering how I ended up in CS (it was definitely the math).
+CS student focused on building robust, scalable infrastructure. I enjoy the challenge of bridging the gap between raw code and intelligent systems. When I'm not debugging FastAPI routes, I'm probably wondering how I ended up in JS (it was definitely the math).
 
 ---
 
@@ -47,6 +46,62 @@ CS student focused on building robust, scalable infrastructure. I enjoy the chal
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🚀 Backend & DevOps
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+### 🎨 Design
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+## { Projects }
+
+<div align="center">
+
+| 🫓 **NUST's Kitchen** | 💼 **Career Connect** |
+| :--- | :--- |
+| **Backend Lead · FastAPI · Docker** | **Lead Developer · Java · WIP** |
+| A high-performance mess management system for SEECS. Handled real-time dining logistics and secure student data. | Modernizing the job portal experience. A centralized platform for societies and career tracking. |
+| • Scalable REST API architecture<br>• Containerized deployment with Docker | • Object-Oriented Design patterns<br>• End-semester flagship project |
+| [**View Repo**](https://github.com/AzaanNust/NUSTs-Kitchen) | **Private Repo** |
+
+</div>
+
+---
+
+## { Github Stats }
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=AzaanNust&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AzaanNust&theme=radical&hide_border=false)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=AzaanNust&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## { Connect With Me }
+
+<div align="center">
+
+| [![Gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:mazaan.bscs25seecs@seecs.edu.pk) | [![Instagram](https://img.icons8.com/color/48/instagram-new.png)](https://instagram.com/azaan.6.3) |
+|:---:|:---:|
+| **Gmail** | **Instagram** |
+
+Always down to talk about AI infrastructure, backend bottlenecks, or table tennis.
+
+<sub>currently optimizing the loop. if you don't hear from me, i'm stuck in a merge conflict.</sub>
+
+</div>
 
 ### 🚀 Backend & DevOps
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
