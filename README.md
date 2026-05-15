@@ -2,7 +2,7 @@
 
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Azaan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student&descColor=a78bfa&descSize=22&descAlignY=58&animation=fadeIn)
 
-## C++  |  Python  |  Java  |  FastAPI  |  Docker
+## Python  |  C++  |  Java  |  FastAPI  |  Docker
 
 <div align="center">
 
