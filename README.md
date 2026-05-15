@@ -32,6 +32,7 @@ const Azaan = {
   contact     : "mazaan.bscs25seecs@seecs.edu.pk",
   funFact     : "I’m 80% caffeine and 20% 'why is this Docker container not running?'",
 };
+```
 
 CS student focused on building robust, scalable infrastructure. I enjoy the challenge of bridging the gap between raw code and intelligent systems. When I'm not debugging FastAPI routes, I'm probably wondering how I ended up in CS (it was definitely the math).
 { Tech Stack }
