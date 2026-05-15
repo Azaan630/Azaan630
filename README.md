@@ -77,11 +77,11 @@ CS student focused on building robust, scalable infrastructure. I enjoy the chal
 
 ## { Github Stats }
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=AzaanNust&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Azaan630&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AzaanNust&theme=radical&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azaan630&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=AzaanNust&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Azaan630&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
