@@ -16,7 +16,7 @@
 
 **Aspiring AI Systems Engineer · Currently Learning AI/ML · NUST SEECS '29**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Azaan630&color=6366f1&style=flat-square&label=PROFILE+VIEWS)](https://github.com/AzaanNust)
+[![Profile Views](https://komarev.com/ghpvc/?username=Azaan630&color=6366f1&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Azaan630)
 
 ---
 
