@@ -31,7 +31,7 @@ const Azaan = {
   experience  : ["Backend Engineering", "System Design", "Academic Excellence"],
   currentFocus: ["AI/ML Systems", "OOP (The Job Portal Arc)", "Surviving the SEECS gauntlet"],
   contact     : "mazaan.bscs25seecs@seecs.edu.pk",
-  funFact     : "I’m 80% caffeine and 20% 'why is this Docker container not running?'",
+  funFact     : "I’m 80% dopamine and 20% 'why is this Docker container not running?'",
 };
 ```
 
