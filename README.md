@@ -68,8 +68,8 @@ CS student focused on building robust, scalable infrastructure. I enjoy the chal
 | 🫓 [**NUST's Kitchen**](https://github.com/Azaan630/NUSTs-Kitchen) | 💼 [**Job Portal**](https://github.com/Azaan630/OOP_Job_Portal) |
 | :--- | :--- |
 | **Backend Lead · FastAPI · Docker** | **Contributor · Java · Public** |
-| A high-performance mess management system for NUST Hostels. Handled real-time dining logistics and secure student data. | Modernizing the job portal experience. A centralized platform for societies and career tracking. |
-| • Scalable REST API architecture<br>• Containerized deployment with Docker | • Object-Oriented Design patterns<br>• End-semester flagship project |
+| Full-stack, role-based mess management platform automating hostel dining, billing, and logistics for NUST. | Modernizing the job portal experience. A centralized platform for societies and career tracking. |
+| • [**Live System**](https://nust-frontend.bluepond-d78274db.centralindia.azurecontainerapps.io/) built on **FastAPI**, **MySQL 8 (Aiven)**, and **Flet (Python/Flutter)**.<br>• **Core Automation:** 7-day interactive menus, real-time recipe ingredient tracking, and automated monthly billing with mess-off day deductions.<br>• **Security & RBAC:** 3-tier permission-gated endpoints secured via **Google OAuth 2.0** <br>• **Admin Analytics:** Live data telemetry featuring animated charts (`flet_charts`) for rating trends, stock levels, and daily cost profiles.<br>• **Notification Engine:** Automated transactional alerts (bills, registration, approvals) via **Gmail SMTP** queues.<br>• **DevOps Pipeline:** Automated **CI/CD via GitHub Actions** packaging multi-container Docker images to GHCR, deployed on **Azure Container Apps**. | • Object-Oriented Design patterns<br>• End-semester flagship project |
 
 </div>
 
